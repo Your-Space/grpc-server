@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package proto.models;
+
+option csharp_namespace = "eudaimonia.grpc.client.forecast.command";
+
+message ForecastCommand{
+  string identifier = 1;
+}
+
+service ForecastCommandService {
+  rpc HistoryUploadFinishedCommand(ForecastCommand) returns (Empty);
+}
+
+message Empty{
+  string something = 1;
+}
