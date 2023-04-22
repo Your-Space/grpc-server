@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mflCeLBZYR4QXJlEhMvnw1mchyz0lHyj4rHYkRnWzZ1LGPmwNnv6y4AMm/zCIsV/db+Hb7Wt4JAvpCkPxNRTmQ==",
+  "dgSpecHash": "0MOK+prFXuhpxqtxGHxWvKjHUMu1C/YZgPFlEpVmEUoIIZBoTR5tmr40g2TOwcMSPrIKZdo5/CzQWwzvg46w7w==",
   "success": true,
   "projectFilePath": "D:\\grpc-test\\grpc-server\\grpc-server\\grpc-server.csproj",
   "expectedPackageFiles": [
